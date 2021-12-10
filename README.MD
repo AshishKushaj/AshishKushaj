@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am Batman 🧛
 
 <br />
