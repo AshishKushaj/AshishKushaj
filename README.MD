@@ -1,14 +1,15 @@
 
-### Hola, I'm Ashish  🤙🏻 
+### Hola, I'm Ashish 🤙
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 <!-- [![Twitter](https://img.shields.io/twitter/follow/Ashish?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ashishkushajak) -->
 
-## I'm a Student and Developer during day and Batman at night  🧛‍♂️ !!
+## I'm a Student and Developer during day and Batman by night  🧛‍♂️ !!
 
-- 🤩 I’m currently learning WEB DEV 
+- 👨‍🎓  I’m currently pursuing my Bachelors in Computer Science & Engineering
+-     And currently learning WEB DEV 🤩
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: Funnily enough I'm not that fun 🐒
+-     Fun fact: Funnily enough I'm not that fun 🐒
 
 ### Connect with me:
 
@@ -18,7 +19,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools learned:
 
 <div align="">
 <img align="center" alt="Java" width="30px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
