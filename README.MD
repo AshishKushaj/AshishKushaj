@@ -1,6 +1,6 @@
 ### Hola, I'm Ashish  🤙
 
- <img align="right" alt="GIF" src="https://github.com/AshishKushaj/AshishKushaj/blob/main/media/catso.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/AshishKushaj/AshishKushaj/blob/main/media/catso.gif?raw=true" width="350" height="320" />
 
 
 ## I'm a Student and Developer!!
