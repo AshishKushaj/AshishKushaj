@@ -11,6 +11,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am Batman 🧛
 
+<br />
+<br />
+<br />
 
 ### Talk with me here:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="35px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/768px-LinkedIn_logo_initials.png?raw=true" />][linkedin]
