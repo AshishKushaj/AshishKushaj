@@ -13,38 +13,38 @@
 
 
 ### Talk with me here:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="35px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/768px-LinkedIn_logo_initials.png?raw=true" />][linkedin]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="40px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/768px-LinkedIn_logo_initials.png?raw=true" />][linkedin]
 
-[<img align="left" alt="holisitc_developer | Instagram" width="35px" src="https://github.com/AshishKushaj/AshishKushaj/blob/main/media/instagram.png?raw=true" />][instagram]
+[<img align="left" alt="holisitc_developer | Instagram" width="40px" src="https://github.com/AshishKushaj/AshishKushaj/blob/main/media/instagram.png?raw=true" />][instagram]
 
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="35px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/visual-studio-code.png?raw=true" />
+<img align="left" alt="Visual Studio Code" width="40px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/visual-studio-code.png?raw=true" />
 
-<img align="left" alt="Java" width="35px" src="https://github.com/AshishKushaj/AshishKushaj/blob/main/media/Java-Emblem.jpg?raw=true" />
+<img align="left" alt="Java" width="40px" src="https://github.com/AshishKushaj/AshishKushaj/blob/main/media/Java-Emblem.jpg?raw=true" />
 
-<img align="left" alt="C" width="35px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/C_Programming_Language.svg.png?raw=true" />
-
-
-<img align="left" alt="HTML5" width="35px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/html.png?raw=true" />
-
-<img align="left" alt="CSS3" width="35px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/css.png?raw=true" />
-
-<img align="left" alt="JavaScript" width="35px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/javascript.png?raw=true" />
-
-<img align="left" alt="React" width="35px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/react.png?raw=true" />
-
-<img align="left" alt="python" width="35px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/python.png?raw=true" />
-
-<img align="left" alt="Git" width="35px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/git.png?raw=true" />
-
-<img align="left" alt="GitHub" width="35px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/GitHub-Mark.png?raw=true" />
+<img align="left" alt="C" width="40px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/C_Programming_Language.svg.png?raw=true" />
 
 
-<img align="left" alt="Terminal" width="35px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/terminal.png?raw=true" />
+<img align="left" alt="HTML5" width="40px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/html.png?raw=true" />
+
+<img align="left" alt="CSS3" width="40px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/css.png?raw=true" />
+
+<img align="left" alt="JavaScript" width="40px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/javascript.png?raw=true" />
+
+<img align="left" alt="React" width="40px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/react.png?raw=true" />
+
+<img align="left" alt="python" width="40px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/python.png?raw=true" />
+
+<img align="left" alt="Git" width="40px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/git.png?raw=true" />
+
+<img align="left" alt="GitHub" width="40px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/GitHub-Mark.png?raw=true" />
+
+
+<img align="left" alt="Terminal" width="40px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/terminal.png?raw=true" />
 
 <br />
 <br />
