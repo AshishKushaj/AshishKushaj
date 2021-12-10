@@ -1,58 +1,58 @@
+### Hola, I'm Ashish  🤙
 
-## Hola, I'm Ashish 🤙
-
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
-<!-- [![Twitter](https://img.shields.io/twitter/follow/Ashish?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ashishkushajak) -->
-
-### I'm a Student and Developer during day and Batman by night  🧛‍♂️ !!
-
-- 👨‍🎓  I’m currently pursuing my Bachelors in Computer Science & Engineering
--     And currently learning WEB DEV 🤩
-- 🥅 2022 Goals: Contribute more to Open Source projects
--     Fun fact: Funnily enough I'm not that fun 🐒
-
-### Connect with me:
+ <img align="right" alt="GIF" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/catso.gif?raw=true" width="500" height="320" />
 
 
-[<img align="center" alt="Ashish Kushaj | Twitter" width="45px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
-[<img align="center" alt="Ashish Kushaj | LinkedIn" width="45px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+## I'm a Student and Developer!!
+- 🔭 I’m currently pursuing my Bachelors in Computer Science & Engineering.
+- 🌱 I’m currently learning Web Development.
+- 👯 I’m looking to collaborate on open source.
+- 💬 Ask me about ... Anything
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am Batman 🧛
+
+
+### Talk with me here:
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/768px-LinkedIn_logo_initials.png?raw=true" />][linkedin]
 
 <br />
 
-### Languages and Tools learned:
+### Languages and Tools:
 
-<div align="">
-<img align="center" alt="Java" width="40px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/visual-studio-code.png?raw=true" />
 
-<img align="center" alt="C" width="40px" src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-c.png" />
+<img align="left" alt="Java" width="26px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/java_logo_640.jpg?raw=true" />
 
-<img align="center" alt="Python" width="40px" src="https://www.pngfind.com/pngs/m/62-626208_python-logo-png-transparent-background-python-logo-png.png" />
+<img align="left" alt="C" width="26px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/C_Programming_Language.svg.png?raw=true" />
 
-<img align="center" alt="HTML5" width="40px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" />
 
-<img align="center" alt="CSS3" width="40px" src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/html.png?raw=true" />
 
-<img align="center" alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/css.png?raw=true" />
 
-<img align="center" alt="React" width="40px" src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/javascript.png?raw=true" />
 
-<img align="center" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="React" width="26px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/react.png?raw=true" />
 
-  </div>
-  
+<img align="left" alt="python" width="26px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/python.png?raw=true" />
+
+<img align="left" alt="Git" width="26px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/git.png?raw=true" />
+
+<img align="left" alt="GitHub" width="26px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/GitHub-Mark.png?raw=true" />
+
+
+<img align="left" alt="Terminal" width="26px" src="https://github.com/AshishKushaj/AshishKushaj_bu/blob/main/media/terminal.png?raw=true" />
+
 <br />
 <br />
-
 ---
-<!-- 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-</details> -->
+  <summary> GitHub Stats</summary>
 
-[twitter]: https://twitter.com/ashishkushajak
-[instagram]: https://instagram.com/codeSTACKr
+  <img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=AshishKushaj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+
+
+
+[instagram]: https://www.instagram.com/ashishkushaj/
 [linkedin]: https://www.linkedin.com/in/ashish-kushaj-20a49118a/
-
