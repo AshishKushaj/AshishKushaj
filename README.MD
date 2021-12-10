@@ -3,7 +3,7 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 <!-- [![Twitter](https://img.shields.io/twitter/follow/Ashish?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ashishkushajak) -->
 
-## I'm a Student and Developer during day and Batman at night  🧛‍♂️ !!
+## I'm a Student and Developer during day and Batman by night  🧛‍♂️ !!
 
 -  I’m currently learning WEB DEV 🤩
 -  2022 Goals: Contribute more to Open Source projects
