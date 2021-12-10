@@ -25,7 +25,7 @@
 
 <img align="center" alt="Python" width="30px" src="https://www.pngfind.com/pngs/m/62-626208_python-logo-png-transparent-background-python-logo-png.png" />
 
-<img align="center" alt="HTML5" width="30px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png />
+<img align="center" alt="HTML5" width="30px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" />
 
 <img align="center" alt="CSS3" width="30px" src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" />
 
