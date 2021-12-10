@@ -11,7 +11,6 @@
 
 ### Connect with me:
 
-![68747470733a2f2f65372e706e676567672e636f6d2f706e67696d616765732f3732342f3330362f706e672d636c69706172742d632d632e706e67](https://user-images.githubusercontent.com/75239283/145572945-115856fa-1e0a-44ce-9700-713f42190791.png)
 
 [<img align="center" alt="Ashish Kushaj | Twitter" width="35px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
 [<img align="center" alt="Ashish Kushaj | LinkedIn" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
