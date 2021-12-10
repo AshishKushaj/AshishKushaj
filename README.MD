@@ -5,8 +5,8 @@
 
 ## I'm a Student and Developer during day and Batman at night  🧛‍♂️ !!
 
-- 🤩 I’m currently learning WEB DEV 
-- 🥅 2022 Goals: Contribute more to Open Source projects
+-  I’m currently learning WEB DEV 🤩
+-  2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Funnily enough I'm not that fun 🐒
 
 ### Connect with me:
