@@ -7,7 +7,7 @@
 - 🔭 I’m currently pursuing my Bachelors in Computer Science & Engineering.
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on open source.
-- 💬 Ask me about ... Anything
+- 💬 Ask me about ... Anything (Not really)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am Batman 🧛
 
