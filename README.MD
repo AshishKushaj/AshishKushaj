@@ -2,14 +2,16 @@
 
  <img align="right" alt="GIF" src="https://github.com/AshishKushaj/AshishKushaj/blob/main/media/catso.gif?raw=true" width="350" height="320" />
 
+## 👨‍💻 Software Engineer @ Accenture | Full-Stack Developer
 
-## I'm a Student and Developer!!
-- 🔭 I’m currently pursuing my Bachelors in Computer Science & Engineering.
-- 🌱 I’m currently learning Web Development.
-- 👯 I’m looking to collaborate on open source.
- 
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I am Batman 🧛
+- 💼 Currently building full-stack apps @ **Accenture**, using **Spring Boot** & **MERN (TypeScript)** stack.
+- ⚙️ Comfortable across the stack — from REST APIs and authentication to component libraries and state management.
+- 🧠 Always learning — recently dove deep into **Recoil**, **JWT**, and **Zod** for validation like a true wizard.
+- 💡 Exploring security, scalable systems, and backend-heavy architectures.
+- 😄 Pronouns: He/Him
+- 🦇 Fun fact: I *am* Batman. Still waiting for the Batmobile though.
+
+---
 
 <br />
  
