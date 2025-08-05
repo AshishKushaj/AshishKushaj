@@ -4,9 +4,9 @@
 
 ## 👨‍💻 Software Engineer @ Accenture | Full-Stack Developer
 
-- 💼 Currently building full-stack apps @ **Accenture**, using **Spring Boot** & **MERN (TypeScript)** stack.
+- 💼 Currently building full-stack apps using **Spring Boot** & **MERN (TypeScript)** stack.
 - ⚙️ Comfortable across the stack — from REST APIs and authentication to component libraries and state management.
-- 🧠 Always learning — recently dove deep into **Recoil**, **JWT**, and **Zod** for validation like a true wizard.
+- 🧠 Always learning 
 - 💡 Exploring security, scalable systems, and backend-heavy architectures.
 - 😄 Pronouns: He/Him
 - 🦇 Fun fact: I *am* Batman. Still waiting for the Batmobile though.
